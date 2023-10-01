@@ -75,7 +75,7 @@ export const worksData: Works = [
   },
   {
     title: "00111001",
-    src: "/works/9.png",
+    src: "/works/9.jpg",
     description: "",
     date: "unknown",
     width: 1680,
