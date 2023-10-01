@@ -19,7 +19,6 @@ const WorksItem = (props: Work) => {
         width={props.width}
         height={props.height}
         quality={100}
-        priority
       />
     </div>
   );

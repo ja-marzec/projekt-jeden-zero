@@ -83,7 +83,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110000",
-    src: "/works/10.png",
+    src: "/works/10.jpg",
     description: "",
     date: "unknown",
     width: 1680,
@@ -91,7 +91,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110001",
-    src: "/works/11.png",
+    src: "/works/11.jpg",
     description: "",
     date: "unknown",
     width: 1680,
@@ -100,7 +100,7 @@ export const worksData: Works = [
   {
     title: "00110001 00110010",
     src: "/works/12.mp3",
-    imgSrc: '/works/12.png',
+    imgSrc: '/works/12.jpg',
     description: "",
     date: "unknown",
     type: 'audio',
