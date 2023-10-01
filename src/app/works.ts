@@ -94,8 +94,8 @@ export const worksData: Works = [
     src: "/works/11.jpg",
     description: "",
     date: "unknown",
-    width: 3500,
-    height: 4912,
+    width: 1680,
+    height: 2184,
   },
   {
     title: "00110001 00110010",
