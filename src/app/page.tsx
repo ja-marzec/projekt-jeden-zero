@@ -5,7 +5,7 @@ import { AudioPlayer } from "@/component/audio-player";
 
 const WorksItem = (props: Work) => {
   return (
-    <div className={`mt-8 xl:mt-16`}>
+    <div className="mt-8 lg:mt-16 xl:mt-24">
       <h3 className="xl:font-bold xl:text-xl">{props.title}</h3>
       {props.type === "audio" && (
         <div className="flex justify-center mt-2">
@@ -13,7 +13,11 @@ const WorksItem = (props: Work) => {
         </div>
       )}
       <Image
-        className="mt-1"
+        style={{
+          // border: "1px solid #302f2f",
+          boxShadow: "0px 0px 50px #2a2a2a",
+        }}
+        className="mt-4"
         src={props.imgSrc || props.src}
         alt={props.title}
         width={props.width}
