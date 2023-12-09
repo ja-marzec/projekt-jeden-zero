@@ -109,7 +109,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110011",
-    src: "/works/13.png",
+    src: "/works/18.png",
     description: "",
     date: "unknown",
     width: 1680,
@@ -117,7 +117,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110100",
-    src: "/works/14.png",
+    src: "/works/20.png",
     description: "",
     date: "unknown",
     width: 1680,
@@ -125,7 +125,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110101",
-    src: "/works/15.png",
+    src: "/works/21.png",
     description: "",
     date: "unknown",
     width: 1680,
@@ -133,7 +133,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110110",
-    src: "/works/16.png",
+    src: "/works/22.png",
     description: "",
     date: "unknown",
     width: 1680,
@@ -141,7 +141,7 @@ export const worksData: Works = [
   },
   {
     title: "00110001 00110111",
-    src: "/works/17.jpg",
+    src: "/works/23.png",
     description: "",
     date: "unknown",
     width: 1680,
